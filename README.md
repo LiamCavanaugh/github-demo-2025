@@ -1,0 +1,1 @@
+My name is Liam Cavanaugh and this GitHub contains my resume. I am a senior in electrial engineering at MSU. The index.html contains the resume and the styles.css contains some of the formatting for it.
